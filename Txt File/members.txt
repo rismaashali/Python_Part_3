@@ -1,0 +1,6 @@
+Nama, Jurusan
+Jaza, Teknik Elektro
+Irvan, Teknik Informatika
+Risma, Statistika
+Rizal, Teknik Komputer
+Shafira, Statistika

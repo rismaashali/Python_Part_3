@@ -1,0 +1,6 @@
+Name, Subject 
+Risma, Statistika 
+Jaza, Teknik Elektro 
+Irvan, Teknik Informatika 
+Rizal, Teknik Komputer 
+Shafira, Statistika
